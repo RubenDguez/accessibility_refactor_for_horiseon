@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves refactoring Horiseon codebase to improve its accessibility. The motivation behind this project is to ensure that our site adheres to accessibility standards, making it more inclusive and optimized for search engines. By refactoring the code, we address the problem of non-semantic HTML elements, missing alt attributes on images, and improper heading order. Through this project, we learned the importance of semantic HTML, the impact of accessibility on SEO, and how to write cleaner, more maintainable code.
+This project involves refactoring [Horiseon](https://rubendguez.github.io/accessibility_refactor_for_horiseon) codebase to improve its accessibility. The motivation behind this project is to ensure that our site adheres to accessibility standards, making it more inclusive and optimized for search engines. By refactoring the code, we address the problem of non-semantic HTML elements, missing alt attributes on images, and improper heading order. Through this project, we learned the importance of semantic HTML, the impact of accessibility on SEO, and how to write cleaner, more maintainable code.
 
 ## Table of Contents
 
