@@ -1,8 +1,8 @@
-# Code Refactor for Accessibility
+# Horiseon Code Refactor for Accessibility
 
 ## Description
 
-This project involves refactoring an existing codebase to improve its accessibility. The motivation behind this project is to ensure that our site adheres to accessibility standards, making it more inclusive and optimized for search engines. By refactoring the code, we address the problem of non-semantic HTML elements, missing alt attributes on images, and improper heading order. Through this project, we learned the importance of semantic HTML, the impact of accessibility on SEO, and how to write cleaner, more maintainable code.
+This project involves refactoring Horiseon codebase to improve its accessibility. The motivation behind this project is to ensure that our site adheres to accessibility standards, making it more inclusive and optimized for search engines. By refactoring the code, we address the problem of non-semantic HTML elements, missing alt attributes on images, and improper heading order. Through this project, we learned the importance of semantic HTML, the impact of accessibility on SEO, and how to write cleaner, more maintainable code.
 
 ## Table of Contents
 
@@ -57,9 +57,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Badges
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![Accessibility](https://img.shields.io/badge/Accessibility-AA-green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Features
 
